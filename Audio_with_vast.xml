@@ -1,0 +1,42 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.0">
+  <Ad id="2967">
+    <InLine>
+      <AdSystem>Mixberry Media</AdSystem>
+        <Impression>
+          https://imp.mixberrymedia.com/impressions/capture?parameters=4UV3V8gq_qFhxdSloAjDv2sFtu6uQta0vRQG7haMxCYjgvBFmZx0vphz4-SbbX4KW6OMs9BvMUaEBoSltBh1ETMvRb8qAj_w0vIRlPyNwm35i1v9AFfhz-U2joq7A1bT
+        </Impression>
+        <Creatives>
+          <Creative AdID="2967">
+            <Linear>
+              <Duration>00:00:10</Duration>
+              <MediaFiles>
+                <MediaFile delivery="progressive" type="audio/mpeg">
+                  https://ccrma.stanford.edu/~jos/mp3/slideflute.mp3
+                </MediaFile>
+              </MediaFiles>
+              <TrackingEvents>
+                <Tracking event="start">
+                  https://trk.mixberrymedia.com/tracker/capture?parameters=4UV3V8gq_qFhxdSloAjDv2sFtu6uQta0vRQG7haMxCYjgvBFmZx0vphz4-SbbX4KW6OMs9BvMUaEBoSltBh1ETMvRb8qAj_wuvBwudxWmrDvObpAyjnAQQ
+                </Tracking>
+                <Tracking event="firstQuartile">
+                  https://trk.mixberrymedia.com/tracker/capture?parameters=4UV3V8gq_qFhxdSloAjDv2sFtu6uQta0vRQG7haMxCYjgvBFmZx0vphz4-SbbX4KW6OMs9BvMUaEBoSltBh1ETMvRb8qAj_wuvBwudxWmrCHw71yOBeT4Q
+                </Tracking>
+                <Tracking event="midpoint">
+                  https://trk.mixberrymedia.com/tracker/capture?parameters=4UV3V8gq_qFhxdSloAjDv2sFtu6uQta0vRQG7haMxCYjgvBFmZx0vphz4-SbbX4KW6OMs9BvMUaEBoSltBh1ETMvRb8qAj_wuvBwudxWmrCI3MzuUQ0gHg
+                </Tracking>
+                <Tracking event="thirdQuartile">
+                  https://trk.mixberrymedia.com/tracker/capture?parameters=4UV3V8gq_qFhxdSloAjDv2sFtu6uQta0vRQG7haMxCYjgvBFmZx0vphz4-SbbX4KW6OMs9BvMUaEBoSltBh1ETMvRb8qAj_wuvBwudxWmrDOMKy8YW75nQ
+                </Tracking>
+                <Tracking event="complete">
+                  https://trk.mixberrymedia.com/tracker/capture?parameters=4UV3V8gq_qFhxdSloAjDv2sFtu6uQta0vRQG7haMxCYjgvBFmZx0vphz4-SbbX4KW6OMs9BvMUaEBoSltBh1ETMvRb8qAj_wuvBwudxWmrCPha2w2uuNkw
+                </Tracking>
+              </TrackingEvents>
+              <VideoClicks>
+                <ClickThrough>https://www.radiantmedialyzer.net</ClickThrough>
+              </VideoClicks>
+            </Linear>
+          </Creative>
+        </Creatives>
+      </InLine>
+    </Ad>
+</VAST>
