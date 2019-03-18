@@ -4,7 +4,7 @@
      <AdSystem version="0.0">JWright</AdSystem>
      <AdTitle><![CDATA[James Media VPAID Creative]]></AdTitle>
      <Description><![CDATA[]]></Description>
-     <Impression id="1465465165486"><![CDATA[http://jamescwright.com/pixel/1x1.gif?event=impression]]></Impression>
+     <Impression id="1465465165486"><![CDATA[https://jamescwright.com/pixel/1x1.gif?event=impression]]></Impression>
      <Creatives>
        <Creative>
          <Linear>
@@ -13,12 +13,12 @@
            <AdParameters></AdParameters>
            <VideoClicks/>
            <MediaFiles>
-             <MediaFile type="video/mp4" width="640" height="360" delivery="progressive" id="1434746302514" bitrate="320" maintainAspectRatio="true"><![CDATA[http://jamescwright.com/videos/test.mp4]]></MediaFile>
+             <MediaFile type="video/mp4" width="640" height="360" delivery="progressive" id="1434746302514" bitrate="320" maintainAspectRatio="true"><![CDATA[https://raw.githubusercontent.com/dJAXGithub/dJAX_Projects/master/mobizen_20190213_094849.mp4]]></MediaFile>
            </MediaFiles>
            <Icons>
              <Icon program="AdChoices" width="100" height="20" xPosition="0" yPosition="200" duration="00:00:10" offset="00:00:02">
                <StaticResource creativeType="image/jpg">
-                 <![CDATA[http://jamescwright.com/images/ad_choices_icon.jpg]]>
+                 <![CDATA[https://raw.githubusercontent.com/dJAXGithub/dJAX_Projects/master/mCent.png]]>
                </StaticResource>
              </Icon>
            </Icons>
