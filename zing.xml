@@ -1,3 +1,4 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
 <script id="tinyhippos-injected"/>
 <Ad id="postroll:0.0-0">
@@ -10,13 +11,13 @@
 </AdTitle>
 <Impression>
 <![CDATA[
-https://ads.msgnaa.info/delivery/lg.php?bannerid=29&campaignid=10&zoneid=15&loc=%5C%22+window.location.hostname+%22&cb=4f1d2c321c
+https://ads.msgnaa.info/delivery/lg.php?bannerid=29&campaignid=10&zoneid=15&loc=%22+window.location.hostname+%22&cb=6ddac90595
 ]]>
 </Impression>
 <Creatives>
 <Creative>
 <Linear>
-<Duration>00:00:10</Duration>
+<Duration>00:01:00</Duration>
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[
@@ -107,15 +108,13 @@ https://ads.msgnaa.info/delivery/fc.php?script=videoAds:vastEvent&bannerid=29&zo
 <VideoClicks>
 <ClickThrough>
 <![CDATA[
-https://ads.msgnaa.info/delivery/ck.php?oaparams=2__bannerid=29__zoneid=15__cb=4f1d2c321c__oadest=http%3A%2F%2Fvideoads.openx.org.edgesuite.net%2Fopenxvideos%2Fopenx-ad.mp4
+https://ads.msgnaa.info/delivery/ck.php?oaparams=2__bannerid=29__zoneid=15__cb=6ddac90595__oadest=http%3A%2F%2Fvideoads.openx.org.edgesuite.net%2Fopenxvideos%2Fopenx-ad.mp4
 ]]>
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
 <MediaFile delivery="progressive" bitrate="400" width="640" height="480" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-http://videoads.openx.org.edgesuite.net/openxvideos/openx-ad.mp4
-]]>
+<![CDATA[ https://www.adspeed.com/mp4/big_buck_bunny.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
