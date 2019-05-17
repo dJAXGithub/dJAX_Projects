@@ -6,114 +6,116 @@
 <![CDATA[ Revive Adserver ]]>
 </AdSystem>
 <AdTitle>
-<![CDATA[ Inline Video Ads ]]>
+<![CDATA[ Demo-HLS Video ]]>
 </AdTitle>
 <Impression>
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/lg.php?bannerid=3&campaignid=1&zoneid=7&loc=%22+window.location.hostname+&cb=3787980747
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/lg.php?bannerid=5&campaignid=1&zoneid=7&loc=%22+window.location.hostname+&cb=99bc664059
 ]]>
 </Impression>
 <Creatives>
 <Creative>
-<Linear skipoffset="00:00:03">
-<Duration>00:00:06</Duration>
+<Linear>
+<Duration>00:00:34</Duration>
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=start
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=start
 ]]>
 </Tracking>
 <Tracking event="firstQuartile">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=firstquartile
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=firstquartile
 ]]>
 </Tracking>
 <Tracking event="midpoint">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=midpoint
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=midpoint
 ]]>
 </Tracking>
 <Tracking event="thirdQuartile">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=thirdquartile
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=thirdquartile
 ]]>
 </Tracking>
 <Tracking event="complete">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=complete
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=complete
 ]]>
 </Tracking>
 <Tracking event="pause">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=pause
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=pause
 ]]>
 </Tracking>
 <Tracking event="mute">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=mute
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=mute
 ]]>
 </Tracking>
 <Tracking event="fullscreen">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=fullscreen
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=fullscreen
 ]]>
 </Tracking>
 <Tracking event="unmute">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=unmute
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=unmute
 ]]>
 </Tracking>
 <Tracking event="creativeView">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=creativeView
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=creativeView
 ]]>
 </Tracking>
 <Tracking event="acceptInvitationLinear">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=acceptInvitationLinear
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=acceptInvitationLinear
 ]]>
 </Tracking>
 <Tracking event="closeLinear">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=closeLinear
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=closeLinear
 ]]>
 </Tracking>
 <Tracking event="skip">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=skip
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=skip
 ]]>
 </Tracking>
 <Tracking event="progress">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=progress
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=progress
 ]]>
 </Tracking>
 <Tracking event="exitFullscreen">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=exitfullscreen
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=exitfullscreen
 ]]>
 </Tracking>
 <Tracking event="rewind">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=rewind
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=rewind
 ]]>
 </Tracking>
 <Tracking event="resume">
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=3&zoneid=7&event=resume
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/fc.php?script=videoAds:vastEvent&bannerid=5&zoneid=7&event=resume
 ]]>
 </Tracking>
 </TrackingEvents>
 <VideoClicks>
 <ClickThrough>
 <![CDATA[
-https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/ck.php?oaparams=2__bannerid=3__zoneid=7__cb=3787980747__oadest=https%3A%2F%2Fmy.therubiqube.com
+https://demo.reviveadservermod.com/demo_outstreamvast/www/delivery/ck.php?oaparams=2__bannerid=5__zoneid=7__cb=99bc664059__oadest=http%3A%2F%2Freviveadservermod.com
 ]]>
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile delivery="progressive" bitrate="400" width="640" height="480" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[ https://demo.reviveadservermod.com/Dice_Media.mp4 ]]>
+<MediaFile delivery="progressive" bitrate="400" width="640" height="480" type="application/x-mpegURL" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://streaming.console.ex8.io/ex8outvideo/Random/kurt/index.m3u8
+]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
